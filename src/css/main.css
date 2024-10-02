@@ -18,8 +18,8 @@ video {
   background: #ff844c;
   width: 574px;
   height: 129px;
-  top: 50px;
-  left: 50px;
+  margin-top: 50px;
+  margin-left: 50px;
   padding: 10px;
   border-radius: 20;
 }
@@ -28,6 +28,7 @@ video {
   color: white;
   display: flex;
   flex-direction: column;
+  align-items: center;
   width: Hug (77px) px;
   height: Hug (109px) px;
   padding: 18px;
